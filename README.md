@@ -1,2 +1,3 @@
 # ServletJDBC
 servlet使用jdbc进行数据库操作
+包含了一些无用的之前servlet项目的旧数据没有剔除，不影响使用。
